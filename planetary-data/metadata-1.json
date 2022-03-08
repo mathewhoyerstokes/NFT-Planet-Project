@@ -1,0 +1,16 @@
+{ 
+  "name": "Planet #1",
+  "description": "Planet 1 in the Planetary system",
+  "image": "https://ipfs.io/ipfs/QmYoSqZMgR8gpzA4aW3124eDwvREPCiphvW19riwXY3YMb",
+  "properties": {
+    "mainColor": "#2727e6", 
+    "secondaryColor": "#ff4141", 
+    "backgroundColor": "#333333",
+    "jagged": 1.5, 
+    "jaggedDepth": 0.25,
+    "size": [1, 1, 1],
+    "rotation": [0.0, 0.4, 0.0],
+    "surfaceSpeed": [1.2, 0.5],
+    "surfaceNoise": [0.1, 0.05]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Planet #4",
+  "description": "Planet 4 in the Planetary system",
+  "image": "https://ipfs.io/ipfs/QmZYgPPjscpHkWxMBpT3bGNHB8UHqRyFLMMh4aK6UB6gZe",
+  "properties": {
+    "mainColor": "#d0eede", 
+    "secondaryColor": "#4e2bc4", 
+    "backgroundColor": "#333333", 
+    "jagged": 0.4, 
+    "jaggedDepth": 0.6,
+    "size": [0.8, 1.1, 1.0],
+    "rotation": [0.03, 0.2, 0.2],
+    "surfaceSpeed": [0.2, 0.1],
+    "surfaceNoise": [0.06, 0.12]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Planet #2",
+  "description": "Planet 2 in the Planetary system",
+  "image": "https://ipfs.io/ipfs/QmdUnmVTDaLPfUuNCYtmZRkZTTqeXriz3xVRrthdFTdRte",
+  "properties": {
+    "mainColor": "#ff4141", 
+    "secondaryColor": "#404052", 
+    "backgroundColor": "#d0eede", 
+    "jagged": 1.0, 
+    "jaggedDepth": 0.5,
+    "size": [0.8, 1.1, 0.8],
+    "rotation": [0.1, 0.14, -0.1],
+    "surfaceSpeed": [0.2, 0.5],
+    "surfaceNoise": [0.2, 0.04]
+  }
+}

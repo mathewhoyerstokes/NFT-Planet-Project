@@ -1,0 +1,16 @@
+{
+  "name": "Planet #5",
+  "description": "Planet 5 in the Planetary system",
+  "image": "https://ipfs.io/ipfs/QmYhS1ufb6kE1H9V6RRFyXJfLh8JMqoxPnkLxXea1FgG6D",
+  "properties": {
+    "mainColor": "#2727e6", 
+    "secondaryColor": "#15aa59", 
+    "backgroundColor": "#d0eede",
+    "jagged": 0.3, 
+    "jaggedDepth": 0.25,
+    "size": [1, 1.04, 1],
+    "rotation": [0.1, 0.1, -0.2],
+    "surfaceSpeed": [0.2, 0.1],
+    "surfaceNoise": [0.1, 0.05]
+  }
+}

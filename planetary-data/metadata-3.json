@@ -1,0 +1,16 @@
+{
+  "name": "Planet #3",
+  "description": "Planet 3 in the Planetary system",
+  "image": "https://ipfs.io/ipfs/QmchzyzvtU5MXtF4BkRQgVBqRxivW9RmFzRL2FthaAV7Bf",
+  "properties": {
+    "mainColor": "#ffe54d", 
+    "secondaryColor": "#16aa59", 
+    "backgroundColor": "#2727e6", 
+    "jagged": 4.5, 
+    "jaggedDepth": 0.1,
+    "size": [1, 0.9, 1],
+    "rotation": [0.1, -0.4, 0.2],
+    "surfaceSpeed": [0.2, 0.1],
+    "surfaceNoise": [0.1, 0.05]
+  }
+}
