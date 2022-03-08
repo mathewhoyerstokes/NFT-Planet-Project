@@ -43,7 +43,7 @@ function Planet({ metadata, opensea }) {
 
         {forSaleNotice}
 
-        <a href={openSeaLink} target="_blank" className="button"> 
+        <a href={openSeaLink} rel="noreferrer" target="_blank" className="button"> 
           View on OpenSea
         </a>
       </section>
